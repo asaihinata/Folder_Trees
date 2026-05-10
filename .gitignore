@@ -1,0 +1,8 @@
+.gitmessage
+.vscode/
+.DS_Store
+.dll
+.exe
+.ini
+__pycache__
+*.pyc
