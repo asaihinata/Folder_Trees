@@ -1,5 +1,5 @@
 import os
-from .tree import Tree
+from .trees import Tree
 def main():
     Tree(os.getcwd())
 if __name__=="__main__":
